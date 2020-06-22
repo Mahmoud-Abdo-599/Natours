@@ -1,0 +1,23 @@
+*,
+*::after,
+*::before {
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+
+html {
+    // this define what 1rem is
+     font-size: 62.5%;  /*this equal to if we said 10px the reason we make it in % to allow the user
+      to zoom over the text if he want and not overwrhight the default font size set by the browser
+       that is 16 px for the font -- and we make it 10px at the first place to make it easy to devide 
+       or double 10px in the <rem> value in all our component all over the css code*/
+
+       @include respond-phone {
+           font-size: 50%;
+       }
+}
+
+body {
+    box-sizing: border-box;
+}
