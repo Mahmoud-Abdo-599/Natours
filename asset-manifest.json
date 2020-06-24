@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Natours/static/css/main.18d4c95b.chunk.css",
-    "main.js": "/Natours/static/js/main.cb4ffc94.chunk.js",
-    "main.js.map": "/Natours/static/js/main.cb4ffc94.chunk.js.map",
+    "main.js": "/Natours/static/js/main.7d61fb50.chunk.js",
+    "main.js.map": "/Natours/static/js/main.7d61fb50.chunk.js.map",
     "runtime-main.js": "/Natours/static/js/runtime-main.3a990f8a.js",
     "runtime-main.js.map": "/Natours/static/js/runtime-main.3a990f8a.js.map",
     "static/js/2.ce3083af.chunk.js": "/Natours/static/js/2.ce3083af.chunk.js",
     "static/js/2.ce3083af.chunk.js.map": "/Natours/static/js/2.ce3083af.chunk.js.map",
     "index.html": "/Natours/index.html",
-    "precache-manifest.fdb321be7c74902c405ed68fbe6806ae.js": "/Natours/precache-manifest.fdb321be7c74902c405ed68fbe6806ae.js",
+    "precache-manifest.245e25490e64fbe9673d353760193106.js": "/Natours/precache-manifest.245e25490e64fbe9673d353760193106.js",
     "service-worker.js": "/Natours/service-worker.js",
     "static/css/main.18d4c95b.chunk.css.map": "/Natours/static/css/main.18d4c95b.chunk.css.map",
     "static/js/2.ce3083af.chunk.js.LICENSE.txt": "/Natours/static/js/2.ce3083af.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.3a990f8a.js",
     "static/js/2.ce3083af.chunk.js",
     "static/css/main.18d4c95b.chunk.css",
-    "static/js/main.cb4ffc94.chunk.js"
+    "static/js/main.7d61fb50.chunk.js"
   ]
 }
